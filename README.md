@@ -1,5 +1,5 @@
 # Student Enrollment Form
-Title of the Project :- Student Enrollment For
+Title of the Project :- Student Enrollment Form
 
 Description:
 A form that will store data in STUDENT-TABLE relation of SCHOOL-DB database.
